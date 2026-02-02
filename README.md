@@ -113,8 +113,8 @@ func main() {
 ### 📊 Engineering Excellence
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftryyln&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftryyln&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ftryyln&show_icons=true&theme=radical&hide_border=true&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftryyln&layout=compact&theme=radical&hide_border=true&title_color=A855F7" alt="Top Languages" height="170"/>
 </div>
 
 ---
