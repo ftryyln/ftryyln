@@ -52,7 +52,7 @@ func main() {
 
 ---
 
-### � Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="35" /> Featured Projects
 
 *Curated selection of my latest and most impactful work from my [Portfolio Website](https://github.com/ftryyln/portfolio-web).*
 
@@ -119,7 +119,7 @@ func main() {
 
 ---
 
-### � Let's Connect!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hands/Handshake.png" alt="Handshake" width="35" /> Let's Connect!
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ftryyln/)
@@ -132,5 +132,5 @@ func main() {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ftryyln&color=A855F7&style=for-the-badge&label=Portfolio+Visitors" alt="Profile views" />
   <br>
-  <strong>"Code is like humor. When you have to explain it, it's bad." - Cory House 🚀</strong>
+  <strong>"Engineering is the art of organizing design." 🚀💎</strong>
 </div>
